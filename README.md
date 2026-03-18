@@ -19,32 +19,33 @@ This repository serves as a comprehensive technical evidence locker for my Maste
 * **RAG & Text Summarization:** Implementation of Retrieval-Augmented Generation systems for automated document synthesis.
 * **Social Link Prediction:** Topological feature engineering (Adamic-Adar, Jaccard) for predicting edges in social graphs.
 
-### 🤖 [Intelligent-Agents-and-Search](./Intelligent-Agents-and-Search)
-*Autonomous reasoning, pathfinding, and goal-oriented logic.*
+### 🤖 [Intelligent-Agents](./Intelligent-Agents)
+*Autonomous reasoning and goal-oriented logic.*
 * **Informed Heuristic Search:** A* Pathfinding and Utility-Maximizing agents for complex grid environments.
-* **Uninformed Search:** BFS and DFS implementations for automated maze solving.
-* **Constraint Satisfaction:** Stochastic optimization for the N-Queens problem.
+* **Goal-Based Agents:** Implementations of agents designed for environment-specific utility maximization.
 
 ### 🎮 [Reinforcement-Learning](./Reinforcement-Learning)
 *Reward-based optimization and Markov Decision Processes.*
 * **Q-Learning & Multi-Armed Bandits:** Implementation of tabular Q-learning and Epsilon-Greedy reward strategies.
-* **Value Iteration:** Bellman equation implementations for optimal policy discovery in stochastic environments.
-
-### 🕸️ [Graph-Analysis-and-Big-Data](./Graph-Analysis-and-Big-Data)
-*Distributed computing and scalable network science.*
-* **PySpark Big Data Pipeline:** Distributed linear regression and clustering on large-scale Spotify networks using Spark MLlib.
-* **Community Detection:** Girvan-Newman edge-betweenness vs. Louvain modularity optimization on social retweet data.
+* **Policy Optimization:** Benchmarking learning agents against stochastic environmental constraints.
 
 ### 👁️ [Computer-Vision](./Computer-Vision)
 *Advanced image analysis and regularization studies.*
 * **Multi-Task Facial Analysis:** A shared-backbone CNN for simultaneous age regression and gender classification.
 * **Regularization Ablation:** 10-fold cross-validation analysis of Batch Normalization and Dropout impact on generalization.
+* **MNIST Heuristics:** Manual feature extraction and quadrant-averaging studies for digit classification.
 
 ### 📊 [Applied-Machine-Learning](./Applied-Machine-Learning)
-*Mathematical implementations and optimization from first principles.*
+*Mathematical implementations, Optimization, and Big Data pipelines.*
+* **PySpark Big Data Pipeline:** Distributed linear regression and clustering on large-scale Spotify networks using Spark MLlib.
+* **Community Detection:** Girvan-Newman edge-betweenness vs. Louvain modularity optimization on social retweet data.
 * **Manual PCA & Eigendecomposition:** From-scratch implementation of PCA and Minimum Distance Classifiers (NumPy only).
-* **Scratch-Built Bayesian Classifiers:** Gaussian Naive Bayes implemented from probability density functions.
 * **Gradient Descent Optimizer:** Custom GD engine with manual partial derivative calculations for non-convex topologies.
+
+### 🔍 [Search-Algorithms](./Search-Algorithms)
+*Foundational search logic and pathfinding.*
+* **Uninformed Search:** BFS and DFS implementations for automated maze solving.
+* **Stochastic Search:** Simulated Annealing for constraint satisfaction problems (N-Queens).
 
 ---
 
