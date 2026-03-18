@@ -65,4 +65,4 @@ This repository serves as a comprehensive technical evidence locker for my Maste
 
 ---
 **Noah Russell**
-[LinkedIn](https://www.linkedin.com/in/noah-russell-61103128a/) | [Email](noahrussell2004@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/noah-russell-61103128a/) | [Email](mailto:noahrussell2004@gmail.com)
