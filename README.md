@@ -56,4 +56,4 @@ This repository serves as a comprehensive technical evidence locker for my Maste
 * **Eligibility:** Clearance Eligible (U.S. Citizen).
 
 ---
-**Noah Russell** [LinkedIn](YOUR_LINKEDIN_URL) | [Email](mailto:YOUR_EMAIL) | Colorado Springs, CO
+**Noah Russell** [LinkedIn](https://www.linkedin.com/in/noah-russell-61103128a/) | [Email](noahrussell2004@gmail.com) | Colorado Springs, CO
