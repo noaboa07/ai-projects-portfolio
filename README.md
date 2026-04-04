@@ -20,7 +20,8 @@ This repository serves as a comprehensive technical evidence locker for my Maste
 * **Social Link Prediction:** Topological feature engineering (Adamic-Adar, Jaccard) for predicting edges in social graphs.
 
 ### 🤖 [Intelligent-Agents](./Intelligent-Agents)
-*Autonomous reasoning and goal-oriented logic.*
+*Autonomous reasoning, goal-oriented logic, and LLM orchestration.*
+* **Autonomous RAG Agent:** Built a LangChain-powered intelligent agent capable of multi-tool routing, real-time math execution, and Retrieval-Augmented Generation.
 * **Informed Heuristic Search:** A* Pathfinding and Utility-Maximizing agents for complex grid environments.
 * **Goal-Based Agents:** Implementations of agents designed for environment-specific utility maximization.
 
@@ -51,7 +52,7 @@ This repository serves as a comprehensive technical evidence locker for my Maste
 
 ## 🛠️ Technical Stack
 * **Languages:** Python (Advanced), SQL, C++
-* **Frameworks:** PyTorch, TensorFlow/Keras, PySpark, Scikit-Learn
+* **Frameworks:** PyTorch, TensorFlow/Keras, PySpark, Scikit-Learn, LangChain
 * **Specialized Libraries:** NumPy, Pandas, Matplotlib, NetworkX, SciPy, torchaudio, diffusers
 * **Core Competencies:** Signal Processing (SVD/EOF), Computer Vision (CNN/VAE), Generative AI (Diffusion), NLP (RAG/Transformers), Autonomous Search (A*), Big Data (Spark).
 
