@@ -106,11 +106,9 @@ Execute the main script or open the Colab notebook to begin interacting with the
 
 Add a screenshot of your agent trace here (Thought → Action → Observation → Final Answer):
 
-```
-![Agent Trace](assets/agent_trace.png)
-```
 
----
+![Agent Trace](assets/agent_trace.png)
+
 
 ## 🤝 Team
 
